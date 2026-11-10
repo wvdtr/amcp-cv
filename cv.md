@@ -1,4 +1,3 @@
-\# \[На главную](https://github.com/wvdtr/amcp-cv/tree/gh-pages)
 
 
 
